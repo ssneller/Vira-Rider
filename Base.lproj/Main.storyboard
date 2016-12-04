@@ -70,6 +70,7 @@
                     </view>
                     <connections>
                         <outlet property="emailTextField" destination="nJ3-ou-AGc" id="PiM-xZ-95n"/>
+                        <segue destination="Zxm-Ma-BJR" kind="show" identifier="RiderVC" id="e2V-bP-VN1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

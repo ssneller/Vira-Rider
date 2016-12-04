@@ -9,6 +9,8 @@
 import UIKit
 
 class SigninVC: UIViewController {
+    
+    private let RIDER_SEGUE = "RiderVC";
 
     @IBOutlet var emailTextField: UITextField!
    
