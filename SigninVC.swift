@@ -27,9 +27,11 @@ class SigninVC: UIViewController {
     }
 
     @IBAction func logIn(_ sender: Any) {
+        
     }
 
     @IBAction func signUp(_ sender: Any) {
+        
     }
 
     
